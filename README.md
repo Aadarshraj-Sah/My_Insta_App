@@ -74,7 +74,7 @@ To run this app, you will need to follow these 3 steps:
 ##### 3. Set up and run the app from your command line:
   ```
   # Clone this repository
-  $ git clone https://github.com/Aadarshraj-Sah/Insta_UI_CodingClub
+  $ git clone https://github.com/Aadarshraj-Sah/Insta_UI_CodingClub.git
 
   # Go into the repository
   $ cd Insta_UI_CodingClub
