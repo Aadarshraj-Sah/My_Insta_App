@@ -47,7 +47,7 @@ A clone of the Instagram App UI using Flutter.
 
 Every page has an AppBar and Navigation Bar to switch between pages.
 
-You can also check out this video to see the functionalities - https://drive.google.com/file/d/1zpCfs4MxGpmnqFezXdMxSdlXtjWWIg8B/view?usp=sharing
+You can also check out this video to see the functionalities - [Insta_UI](https://drive.google.com/file/d/1JdIwG5tP_V-xDWdCVmdln-m0wvb4G3hU/view?usp=sharing)
 
 ## Technologies
 * Dart
@@ -74,7 +74,7 @@ To run this app, you will need to follow these 3 steps:
 ##### 3. Set up and run the app from your command line:
   ```
   # Clone this repository
-  $ git clone https://github.com/Aadarshraj-Sah/Insta_UI_CodingClub
+  $ git clone https://github.com/Aadarshraj-Sah/Insta_UI_CodingClub.git
 
   # Go into the repository
   $ cd Insta_UI_CodingClub
