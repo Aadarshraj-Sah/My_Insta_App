@@ -47,7 +47,7 @@ A clone of the Instagram App UI using Flutter.
 
 Every page has an AppBar and Navigation Bar to switch between pages.
 
-You can also check out this video to see the functionalities - [Insta_UI](https://github.com/Aadarshraj-Sah/Insta_UI_CodingClub/blob/master/Screenshots/Insta_UI.mp4)
+You can also check out this video to see the functionalities - [Insta_UI](https://drive.google.com/file/d/1JdIwG5tP_V-xDWdCVmdln-m0wvb4G3hU/view?usp=sharing)
 
 ## Technologies
 * Dart
