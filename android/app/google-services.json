@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110246836667",
+    "project_id": "instaui-6f7f0",
+    "storage_bucket": "instaui-6f7f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110246836667:android:0a920e295f276b70896c9e",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110246836667-pse5us6b1plufgi538g2gq1hbs8mmu2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjeYkK66KuX8vFYB7txk9aO5wBUnd8zSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110246836667-pse5us6b1plufgi538g2gq1hbs8mmu2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

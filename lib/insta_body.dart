@@ -1,7 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:first_app/insta_list.dart';
 
-class InstaBody extends StatelessWidget {
+
+
+class InstaBody extends StatefulWidget {
+  const InstaBody({Key? key}) : super(key: key);
+
+  @override
+  _InstaBodyState createState() => _InstaBodyState();
+}
+
+class _InstaBodyState extends State<InstaBody> {
   @override
   Widget build(BuildContext context) {
     return new Column(
@@ -13,3 +22,5 @@ class InstaBody extends StatelessWidget {
     );
   }
 }
+
+

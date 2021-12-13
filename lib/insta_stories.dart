@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class InstaStories extends StatelessWidget {
   static final List a = [
-    "https://media-exp3.licdn.com/dms/image/C5603AQEhv8cuonw6Dw/profile-displayphoto-shrink_800_800/0/1620213159399?e=1631750400&v=beta&t=SewM8LVQ6rDOestLJqqF-ASaurUNSuwnQ9gf27PCSfg",
+    "https://i.ibb.co/RhzNgYr/1620213159399.jpg",
     "https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_960_720.jpg",
     "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_960_720.jpg",
     "https://cdn.pixabay.com/photo/2014/09/14/18/04/dandelion-445228_960_720.jpg",
@@ -32,7 +32,7 @@ class InstaStories extends StatelessWidget {
 
   final stories = Expanded(
     child: new Padding(
-      padding: const EdgeInsets.only(top: 8.0),
+      padding: const EdgeInsets.only(top: 8),
       child: new ListView.builder(
         scrollDirection: Axis.horizontal,
 
