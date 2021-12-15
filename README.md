@@ -55,6 +55,8 @@ https://user-images.githubusercontent.com/77449847/145807516-57d02123-e576-409b-
 * Dart
 * Flutter
 
+## Collaborators 
+Created by [Aadarshraj-Sah](https://github.com/Aadarshraj-Sah) in collaboration with [Sweeya Reddy](https://github.com/sweeya2).
 
 ## Setup
 To run this app, you will need to follow these 3 steps:
